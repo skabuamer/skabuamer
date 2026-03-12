@@ -1,3 +1,5 @@
+![image](https://devamer.com/assets/img/banner-img.png?raw=true)
+
 # 💫 About Me:
 I'm a frontend web developer based in Dhaka, Bangladesh, focused on crafting responsive, accessible interfaces with HTML, CSS/SCSS, Bootstrap, Tailwind CSS, and React JS.<br>
 
