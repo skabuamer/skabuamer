@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/skabuamer/skabuamer/main/banner-img.png)
+![image](https://raw.githubusercontent.com/skabuamer/skabuamer/main/image.png)
 
 # 💫 About Me:
 I'm a frontend web developer based in Dhaka, Bangladesh, focused on crafting responsive, accessible interfaces with HTML, CSS/SCSS, Bootstrap, Tailwind CSS, and React JS.<br>
