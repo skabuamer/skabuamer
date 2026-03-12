@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/skabuamer/skabuamer/main/images/banner-img.png)
 
 # 💫 About Me:
-I'm a frontend web developer based in Dhaka, Bangladesh, focused on crafting responsive, accessible interfaces with HTML, CSS/SCSS, Bootstrap, Tailwind CSS, and React JS.<br>
+I’m Abu Amer, a frontend developer from Dhaka, Bangladesh. I enjoy translating design into crisp, responsive UI. I work comfortably with HTML, CSS, SCSS, and utility-first workflows like Tailwind CSS. When the project needs a component-driven approach, I build with React JS and modern JS workflows.<br>
 
 
 ## 🌐 Socials:
